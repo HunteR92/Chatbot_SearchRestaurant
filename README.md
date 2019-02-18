@@ -24,8 +24,3 @@ gradlew build
 
 # 실행
 nohup java -jar $WAR_FILE >> nohup.out &
-# Chatbot_SearchRestaurant
-# Chatbot_SearchRestaurant
-# Chatbot_SearchRestaurant
-# Chatbot_SearchRestaurant
-# Chatbot_SearchRestaurant
